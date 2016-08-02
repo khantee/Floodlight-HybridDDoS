@@ -32,7 +32,7 @@ What is Floodlight-HybridDDoS
 
 Floodlight-HybridDDoS is add-on algorithm for against DDoS Attack that deploy Entropy algorithm to detect Attacker. We are master student from Khon Kaen University developing the SDN Project. In addition, HybridAPP files are included.
 
-Saksit Jantila
+Saksit Jantila  
 saksit.j@kkumail.com
 
 
